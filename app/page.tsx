@@ -6,7 +6,7 @@ export default function Home() {
 
       {/* HERO */}
       <section className="relative flex flex-col items-center justify-center text-center px-6 py-32 border-b border-red-900">
-        <img src="/logo_g.png" alt="Logo Algoritmo Urbano" width='30%' height='30%' style={{marginTop: "-120px"}}/>
+        <img src="/logo_g.png" alt="Logo Algoritmo Urbano" width='30%' height='3`````````````````0%' style={{marginTop: "-120px"}}/>
         
         <p className="mt-6 text-xl md:text-2xl text-gray-300">
           Programado pelo asfalto.
@@ -37,7 +37,7 @@ export default function Home() {
         </div>
       </section>
       <section className="max-w-6xl mx-auto px-6 py-24">
-
+````
         <div className="text-center mb-16">
           <h2 className="text-4xl font-black mb-6">
             O Movimento
@@ -301,9 +301,7 @@ export default function Home() {
         <p className="text-xl mb-10">
           Conectando talentos. Fortalecendo a cultura.
           Transformando oportunidades.
-          Solicite aqui seu acesos ao grupo do whatsapp.
-        </p>
-
+          Solicite aqui seu acesso ao grupo do whatsapp.````
       <Link
         href="https://chat.whatsapp.com/FQ6NYiJu0Vq4KsXb3XE9ux?s=cl&p=a&mlu=1"
         target="_blank"
