@@ -39,6 +39,97 @@ export default function Home() {
           </Link>
         </div>
       </section>
+      <section className="max-w-6xl mx-auto px-6 py-24">
+
+        <div className="text-center mb-16">
+          <h2 className="text-4xl font-black mb-6">
+            O Movimento
+          </h2>
+
+          <p className="text-xl text-gray-400 max-w-3xl mx-auto">
+            O Algoritmo Urbano nasce da necessidade de criar
+            conexões reais entre pessoas, projetos e oportunidades.
+            Somos uma infraestrutura cultural construída
+            coletivamente.
+          </p>
+        </div>
+
+        <div className="grid md:grid-cols-3 gap-8">
+
+          <div className="bg-zinc-900 p-8 rounded-xl">
+            <h3 className="text-2xl font-bold mb-4">
+              🎤 Artistas
+            </h3>
+
+            <p className="text-gray-400">
+              MCs, DJs, beatmakers, grafiteiros,
+              dançarinos, fotógrafos e criadores.
+            </p>
+          </div>
+
+          <div className="bg-zinc-900 p-8 rounded-xl">
+            <h3 className="text-2xl font-bold mb-4">
+              🎬 Produtores
+            </h3>
+
+            <p className="text-gray-400">
+              Pessoas que organizam eventos,
+              projetos e iniciativas culturais.
+            </p>
+          </div>
+
+          <div className="bg-zinc-900 p-8 rounded-xl">
+            <h3 className="text-2xl font-bold mb-4">
+              🏙️ Coletivos
+            </h3>
+
+            <p className="text-gray-400">
+              Organizações independentes que
+              fortalecem seus territórios.
+            </p>
+          </div>
+
+        </div>
+
+      </section>
+      <section className="bg-zinc-950 py-20">
+
+        <div className="max-w-6xl mx-auto px-6">
+
+          <div className="grid md:grid-cols-3 gap-10 text-center">
+
+            <div>
+              <h3 className="text-5xl font-black text-red-600">
+                50+
+              </h3>
+              <p className="text-gray-400 mt-2">
+                Artistas Conectados
+              </p>
+            </div>
+
+            <div>
+              <h3 className="text-5xl font-black text-red-600">
+                10+
+              </h3>
+              <p className="text-gray-400 mt-2">
+                Projetos Ativos
+              </p>
+            </div>
+
+            <div>
+              <h3 className="text-5xl font-black text-red-600">
+                5+
+              </h3>
+              <p className="text-gray-400 mt-2">
+                Cidades Participantes
+              </p>
+            </div>
+
+          </div>
+
+        </div>
+
+      </section>
 
       {/* O QUE É */}
       <section

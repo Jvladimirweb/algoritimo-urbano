@@ -13,11 +13,12 @@ export default function Navbar() {
           <span className="text-red-600"> URBANO</span>
         </Link>
 
-        <nav className="hidden md:flex gap-8 text-sm font-semibold">
+        <nav className="hidden md:flex gap-8 text-sm font-semibold text-white">
           <Link href="/">Home</Link>
           <Link href="/sobre">Sobre</Link>
           <Link href="/administradores">Administradores</Link>
           <Link href="/parceiros">Parceiros</Link>
+          <Link href="/comunidade">Comunidade</Link>
           <Link href="/contato">Contato</Link>
         </nav>
 
