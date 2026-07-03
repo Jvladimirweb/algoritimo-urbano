@@ -303,9 +303,14 @@ export default function Home() {
           Transformando oportunidades.
         </p>
 
-        <button className="bg-black hover:bg-zinc-900 px-10 py-5 rounded-xl font-bold text-lg transition">
-          Entrar para a Comunidade
-        </button>
+      <Link
+        href="https://chat.whatsapp.com/FQ6NYiJu0Vq4KsXb3XE9ux?s=cl&p=a&mlu=1"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-block bg-black hover:bg-zinc-900 px-10 py-5 rounded-xl font-bold text-lg transition"
+      >
+        💬 Entrar para a Comunidade
+      </Link>
       </section>
 
     </main>
