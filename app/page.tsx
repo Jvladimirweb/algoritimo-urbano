@@ -6,11 +6,8 @@ export default function Home() {
 
       {/* HERO */}
       <section className="relative flex flex-col items-center justify-center text-center px-6 py-32 border-b border-red-900">
-        <h1 className="text-6xl md:text-8xl font-extrabold tracking-widest">
-          ALGORITMO
-          <span className="block text-red-600">URBANO</span>
-        </h1>
-
+        <img src="/logo_g.png" alt="Logo Algoritmo Urbano" width='20%' height='20%' style={{marginTop: "-120px"}}/>
+        
         <p className="mt-6 text-xl md:text-2xl text-gray-300">
           Programado pelo asfalto.
           <br />
