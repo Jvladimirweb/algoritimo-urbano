@@ -40,6 +40,7 @@ export default function Navbar() {
           <Link href="/administradores">Administradores</Link>
           <Link href="/parceiros">Parceiros</Link>
           <Link href="/comunidade">Comunidade</Link>
+          <Link href="/documentos">Documentos</Link>
           <Link href="/contato">Contato</Link>
         </nav>
 
