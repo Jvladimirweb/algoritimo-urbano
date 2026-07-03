@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-black">
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-black pt-24">
       <div className="absolute inset-0 bg-gradient-to-br from-cyan-500/20 via-black to-yellow-500/10" />
 
       <div className="relative z-10 text-center px-6">
