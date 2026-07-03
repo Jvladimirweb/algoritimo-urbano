@@ -301,6 +301,7 @@ export default function Home() {
         <p className="text-xl mb-10">
           Conectando talentos. Fortalecendo a cultura.
           Transformando oportunidades.
+          Solicite aqui seu acesos ao grupo do whatsapp.
         </p>
 
       <Link
